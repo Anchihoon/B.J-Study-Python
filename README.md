@@ -1,2 +1,2 @@
-# B.J-Study-Python-
+# B.J-Study-Python
 Baekjoon onlinejudge study with Python
